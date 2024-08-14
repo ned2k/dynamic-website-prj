@@ -3,7 +3,9 @@ users:
     email: john.doe@example.com
   - name: Jane Smith
     email: jane.smith@example.com
-  - name: Drew Norman
-    email: drew.norman@example.com
+  - name: Harry Norman
+    email: harry.norman@example.com
   - name: Jean Rush
     email: jean.rush@example.com
+  - name: Tom Irwin
+    email: tom.irwin@example.com
