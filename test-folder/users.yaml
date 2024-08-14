@@ -3,7 +3,3 @@ users:
     email: john.doe@example.com
   - name: Jane Smith
     email: jane.smith@example.com
-  - name: Drew Norman
-    email: drew.norman@example.com
-  - name: Jean Rush
-    email: jean.rush@example.com
